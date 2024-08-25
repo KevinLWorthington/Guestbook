@@ -9,4 +9,3 @@ Follow the steps below to be included in this repo.
    - The file can be blank or you can add an About Me
 5. Stage and commit your changes
 6. Push to the repo for review
-
