@@ -13,3 +13,5 @@ Follow the steps below to be included in this repo.
 7. DM me in Slack to let me know of your contribution
 
 Feel free to make suggestions on improvements I can make or how we can further use this repo for class.
+
+![Eddie is a cutie](/images/Eddie.JPEG "Eddie")
