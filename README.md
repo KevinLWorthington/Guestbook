@@ -17,6 +17,7 @@ Follow the steps below to be included in this repo.
    - Use `git commit -m "YOUR COMMIT MESSAGE"`
 6. Push to the repo and create a pull request for review
    - Use `git push --set-upstream origin BRANCH-NAME` (replace BRANCH-NAME with the name of your branch)
+   - Navigate back to the repo page in your browser to select your branch and create a pull request
 7. DM me in Slack to let me know of your contribution
 
 Feel free to make suggestions on improvements I can make or how we can further use this repo for class.
