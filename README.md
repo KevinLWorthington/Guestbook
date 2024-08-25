@@ -22,4 +22,4 @@ Follow the steps below to be included in this repo.
 
 Feel free to make suggestions on improvements I can make or how we can further use this repo for class.
 
-![Eddie is a cutie](/images/Eddie.JPEG "Eddie")
+<img src="images/Eddie.JPEG" width="200" height="200">
