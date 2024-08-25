@@ -23,3 +23,4 @@ Follow the steps below to be included in this repo.
 Feel free to make suggestions on improvements I can make or how we can further use this repo for class.
 
 <img src="images/Eddie.JPEG" width="200" height="200">
+<a href="https://code-you.org/"><img src="https://code-you.org/wp-content/uploads/2023/07/codeyou-logo-wink.gif" width="300" height="73.8833">
