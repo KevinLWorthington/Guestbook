@@ -10,7 +10,7 @@ Follow the steps below to be included in this repo.
 4. Add a new file called [your-name].txt to the guests directory
    - Replace [your-name] with your actual name
    - The file can be blank or you can add an About Me
-   - You can do this from the terminal with `touch [your-name].txt`
+   - You can create your file from the terminal with `touch [your-name].txt`
    - You can edit this file from the terminal with `nano [your-name].txt`
 5. Stage and commit your changes
    - Use `git add [your-name].txt` to stage the new file
