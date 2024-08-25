@@ -9,7 +9,7 @@ Follow the steps below to be included in this repo.
    - Replace [your-name] with your actual name
    - The file can be blank or you can add an About Me
 5. Stage and commit your changes
-6. Push to the repo for review
+6. Push to the repo and create a pull request for review
 7. DM me in Slack to let me know of your contribution
 
-Feel free to make suggestions on how we can further utilize this repo for class.
+Feel free to make suggestions on improvements I can make or how we can further use this repo for class.
