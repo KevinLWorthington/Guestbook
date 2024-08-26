@@ -9,16 +9,17 @@ Follow the steps below to be included in this repo.
    - You can find instructions on creating and using branches here: https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 4. Add a new file called [your-name].txt to the guests directory
    - Replace [your-name] with your actual name
+   - Make sure you are placing the file in the `guests` directory
    - The file can be blank or you can add an About Me
    - You can create your file from the terminal with `touch [your-name].txt`
    - You can edit this file from the terminal with `nano [your-name].txt`
-5. Stage and commit your changes
+6. Stage and commit your changes
    - Use `git add [your-name].txt` to stage the new file
    - Use `git commit -m "YOUR COMMIT MESSAGE"`
-6. Push to the repo and create a pull request for review
+7. Push to the repo and create a pull request for review
    - Use `git push --set-upstream origin BRANCH-NAME` (replace BRANCH-NAME with the name of your branch)
    - Navigate back to the repo page in your browser to select your branch and create a pull request
-7. DM me in Slack to let me know of your contribution
+8. DM me in Slack to let me know of your contribution
 
 Feel free to make suggestions on improvements I can make or how we can further use this repo for class.
 
