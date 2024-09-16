@@ -4,11 +4,11 @@ Follow the steps below to be included in this repo.
 1. DM me (Kevin Worthington) your GitHub username in Slack to be added as a contributor.
 2. I will reply once I've added you. Then clone this repo to your local machine.
    - Instuctions can be found here: https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
-   - Use 'git clone https://github.com/KevinLWorthington/Guestbook.git'
+   - Use `git clone https://github.com/KevinLWorthington/Guestbook.git`
 3. Create a new branch.
    - The main branch is protected. You must create a new branch and push it to the repo.
    - You can find instructions on creating and using branches here: https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
-   - Use 'git checkout -b [branch-name]' to create the new branch and move to that branch.
+   - Use `git checkout -b [branch-name]` to create the new branch and move to that branch.
    - Replace [branch-name] with the name of your branch.
 4. Add a new file called [your-name].txt to the guests directory
    - Replace [your-name] with your actual name
