@@ -1,10 +1,11 @@
 <img src="images/41c21655-e8cf-4b2d-a0d2-c05037571302.jfif" width="150" height="150"></img>
 ## This is a practice repo for Code:You.
 Follow the steps below to be included in this repo.
-1. DM me (Kevin Worthington) your GitHub username in Slack to be added as a contributor.
+1. DM me (Kevin Worthington) your GitHub username in Slack to be added as a collaborator.
 2. I will reply once I've added you. Then clone this repo to your local machine.
    - Instuctions can be found here: https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
    - Use `git clone https://github.com/KevinLWorthington/Guestbook.git`
+   - You DO NOT need to fork this repo (you can if you like).
 3. Create a new branch.
    - The main branch is protected. You must create a new branch and push it to the repo.
    - You can find instructions on creating and using branches here: https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
